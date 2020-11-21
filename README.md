@@ -1,2 +1,2 @@
 # Housing-Investment-Analysis
-Code to review housing data and vale investment opportunity
+Code to review housing data and value investment opportunity
